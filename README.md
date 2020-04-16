@@ -9,3 +9,20 @@
 ![](Assets/2.jpg)
 
 ![](Assets/3.jpg)
+
+## 收集到的几个接口
+- 斗鱼 API
+
+- getColumnList 用在首页
+
+- http://capi.douyucdn.cn/api/v1/live?limit=20&offset=0    获取全部直播
+
+- http://www.douyutv.com/api/v1/home_newbie_list
+
+- http://www.douyutv.com/api/v1/slide/6
+
+- http://www.douyutv.com/api/v1//game?aid=wp&auth=150afad8549c8964e5af7daf675cacc8&client_sys=wp&time=1558198146
+
+- http://www.douyutv.com/api/v1/channel
+
+- http://www.douyutv.com/mgapi/live/wpapp/room/52876?aid=wp&cdn=&client_sys=wp&cptl=0401&csign=0c14318aba461f5a1ef625f6aea7b19b&time=1558949331
